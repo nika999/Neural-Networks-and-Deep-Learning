@@ -6,4 +6,5 @@ unknown digit recognition - Using neural networks to recognize handwritten numbe
 Data:
 
 train-images-idx3-ubyte.gz
+
 train-labels-idx1-ubyte.gz
