@@ -1,7 +1,7 @@
 # Neural-Networks-and-Deep-Learning
-Practices and labs
+Practices and labs:
 
-unknown digit recognition - Using neural networks to recognize handwritten numbers
+1. unknown digit recognition - Using neural networks to recognize handwritten numbers
 
 Data:
 
