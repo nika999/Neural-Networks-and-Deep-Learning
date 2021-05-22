@@ -5,6 +5,7 @@ Practices and labs:
 2. Fisher-Anderson irises classification - Classification & Multiple Linear Regression
 3. Building a K-Means Clustering Pipeline - Clustering of patients with different types of cancer using real data on gene expression.
 4. text-classification-with-python-and-keras
+5.  MLP on the cancer survival dataset -  Multilayer Perceptron (MLP) model for the dataset using TensorFlow.
 
 
 Data:
